@@ -1,4 +1,4 @@
-# STM32F103 Blink skelleton
+# STM32F103 Blink skeleton
 
 This repository is a minimal STM32F103 build (a blinking led), that can be used for various purposes.  
 By relocation the text section, it can be used to test the bootloader project.
